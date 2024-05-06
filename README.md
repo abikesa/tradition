@@ -31,4 +31,6 @@ Drawing parallels between the structure of the regression model and the hierarch
 
 # `ii-V-i`
 
-[Dawkins](https://www.youtube.com/watch?v=qCfarOP_-dA)
+[Dawkins](https://www.youtube.com/watch?v=qCfarOP_-dA)     
+[McClurkin](https://www.youtube.com/watch?v=ud-YSDFTboQ)     
+[Hawthorne](https://www.youtube.com/watch?v=YDFl9goQD_c)    
