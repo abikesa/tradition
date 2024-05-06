@@ -27,7 +27,7 @@ Drawing parallels between the structure of the regression model and the hierarch
 
 # Pentatonic
 
-[Hesiod's Theogony](https://en.wikipedia.org/wiki/Greek_primordial_deities#Hesiod's_primordial_genealogy), (c. 700 BCE) which could be considered the "standard" creation myth of Greek mythology,[1] tells the story of the genesis of the gods. After invoking the Muses (II.1–116), Hesiod says the world began with the spontaneous generation of four beings: first arose Chaos (Chasm); then came Gaia (the Earth), "the ever-sure foundation of all"; "dim" Tartarus (the Underworld), in the depths of the Earth; and Eros (Love) "fairest among the deathless gods".[2] (Although in other myths, Eros was the name of Aphrodite's and Ares's son.)
+[Hesiod's Theogony](https://en.wikipedia.org/wiki/Greek_primordial_deities#Hesiod's_primordial_genealogy), (c. 700 BCE) which could be considered the "standard" creation myth of Greek mythology, tells the story of the genesis of the gods. After invoking the Muses (II.1–116), Hesiod says the world began with the spontaneous generation of four beings: first arose Chaos (Chasm); then came Gaia (the Earth), "the ever-sure foundation of all"; "dim" Tartarus (the Underworld), in the depths of the Earth; and Eros (Love) "fairest among the deathless gods". (Although in other myths, Eros was the name of Aphrodite's and Ares's son.)
 
 # `ii-V-i`
 
