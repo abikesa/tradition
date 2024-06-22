@@ -23,11 +23,11 @@ Drawing parallels between the structure of the regression model and the hierarch
   
 
  
-                                        1. Root
-                                               \
-                              2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
-                                               /
-                                               3. Diatonic
+                                        1. Integrity
+                                                    \
+                                       2. Skills -> 4. Frailty -> 5. Overflow -> 6. Updates
+                                                    /
+                                                    3. Tools
 
 
 
