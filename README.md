@@ -1,3 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LaTeX Rendering Example</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body>
+  <h1>LaTeX Equation Example</h1>
+  <p>This is an example of an inline equation: 
+  \(\text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i\)</p>
+  
+  <p>This is an example of a display equation:</p>
+  <p>
+  \[
+  \text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i
+  \]
+  </p>
+</body>
+</html>
+
+<iframe src="https://www.youtube.com/embed/raexpEkkgso" width="100%" height="600px" style="border:none"></iframe>
+
 > $\text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i$    
 Drawing parallels between the structure of the regression model and the hierarchical structure of Greek mythology - GPT4
 
