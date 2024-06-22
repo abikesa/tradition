@@ -8,7 +8,6 @@
   </script>
 </head>
 <body>  
-  <p>This is an example of a display equation:</p>
   <p>
   \[
   \text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i
