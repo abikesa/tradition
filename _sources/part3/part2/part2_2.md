@@ -1,22 +1,11 @@
 (rr-open-source)=
 # Tradition
 
-<html>
-<head>
-  <title></title>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script type="text/javascript" id="MathJax-script" async
-    src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-</head>
-<body>  
-  <p>
-  \[
+
+$$
   \text{Years on Waitlist} \sim \ \beta_0 + \beta_1 \text{Patient History} + \beta_2 \text{Living Donation} + \beta_3 \text{Center Aggressiveness} + \beta_4 \text{Geographic Region} + \epsilon_i
-  \]
-  </p>
-</body>
-</html>
+$$
+
 
 <iframe src="https://www.youtube.com/embed/raexpEkkgso" width="100%" height="600px" style="border:none"></iframe>
    
@@ -25,11 +14,11 @@ Drawing parallels between the structure of the regression model and the hierarch
   
 
  
-                                        1. Integrity
-                                                    \
-                                       2. Skills -> 4. Frailty -> 5. Overflow -> 6. Updates
-                                                    /
-                                                    3. Tools
+            1. Food
+                   \
+       2. Teeth -> 4. Enzymes -> 5. Absorption -> 6. Growth
+                   /
+                   3. Gut
 
 
 
